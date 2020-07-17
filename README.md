@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                                                                                  🎉⭐<img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" />⭐🎉  
+<p align="center">
+🎉⭐<img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" />⭐🎉
+</p>
                      
 ### Hi there, I'm [Miguel!](https://www.miguelben.dev):wave:  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true) 
 
@@ -31,14 +33,10 @@ Here are some ideas to get you started:
   </a>
   <a href="https://www.buymeacoffee.com/EcCVmbe">
     <img height="30px" width="30" src="https://img.icons8.com/fluent/96/coffee-to-go.png"/>
-    
   </a>
-  
-  
   <a href="https://dev.to/migben">
-    <img align="left" alt="Leetcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+    <img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png">
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/migben"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 </p>
 
 <br />
