@@ -84,7 +84,9 @@ Here are some ideas to get you started:
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg?sanitize=true" alt="html" style="vertical-align:top margin:6px 4px">    
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg?sanitize=true" alt="html" style="vertical-align:top margin:6px 4px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="html" style="vertical-align:top margin:6px 4px">
+  
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg?sanitize=true" alt="js" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg?sanitize=true" alt="python" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg?sanitize=true" alt="react" style="vertical-align:top margin:6px 4px"">
@@ -93,6 +95,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg?sanitize=true" alt="npm" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/bash.svg?sanitize=true" alt="bash" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg?sanitize=true" alt="vscode" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="vscode" style="vertical-align:top margin:6px 4px">
+
 
 </p>
 
