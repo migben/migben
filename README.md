@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <p align="center">
   <img width="40" src="https://img.icons8.com/cotton/64/000000/star.png"/>
   <img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" />
   <img width="40" src="https://img.icons8.com/cotton/64/000000/star.png"/>
 </p>
+
                      
 ### Hi there, I'm [Miguel!](https://www.miguelben.dev):wave:  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true) 
 
