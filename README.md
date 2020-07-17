@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img alt="Linkedin" height="30px" src="https://img.icons8.com/color/64/000000/linkedin.png"/>
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/migben/">
-    <img  alt="Leetcode" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+    <img alt="Leetcode" height="30px" src="https://img.icons8.com/ultraviolet/40/000000/code.png"/>
   </a>
   <a href="https://ko-fi.com/I2I3C8M5">
     <img height="30px" width="30" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png"/>
@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 <br />
 
 <hr />
+
 **I am Into , 🙏**
 
 **Automation, Web Development, SEO, Cycling :bicyclist:, Front-end & Javascript 😼**
