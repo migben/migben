@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Miguel!](https://www.miguelben.dev) 👋 ⭐🎉⭐🎉  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
+               ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
+### Hi there, I'm [Miguel!](https://www.miguelben.dev) 👋 ⭐🎉⭐🎉  
 
 
 <br/>
