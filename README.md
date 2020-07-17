@@ -19,10 +19,7 @@ Here are some ideas to get you started:
   <img width="40" src="https://img.icons8.com/cotton/64/000000/star.png"/>
   <img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" />
   <img width="40" src="https://img.icons8.com/cotton/64/000000/star.png"/>
-</p>
-
-                     
-### Hi there, I'm [Miguel!](https://www.miguelben.dev):wave:  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true) 
+</p> 
 
 
 <br/>
@@ -48,6 +45,8 @@ Here are some ideas to get you started:
 
 <img align="right" height="270px" width="350px" alt="GIF" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47345b8db67ffc5ae993159c8eacb95ef4efad754a&rid=giphy.gif" />
 <br />
+
+### Hi there, I'm [Miguel!](https://www.miguelben.dev):wave:  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
 
 ### I'm a front-end developer that recently graduated from a bootcamp, based on NYC. :statue_of_liberty: 
 
