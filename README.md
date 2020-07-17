@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm [Miguel!](https://www.miguelben.dev) 👋.  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
+### Hi there, I'm [Miguel!](https://www.miguelben.dev) 👋 ⭐🎉⭐🎉  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
 
 
 <br/>
@@ -30,14 +30,11 @@ Here are some ideas to get you started:
   <img align="left" alt="Leetcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a>
 
-
-
 <br />
 
 <img align="right" height="270px" width="350px" alt="GIF" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47345b8db67ffc5ae993159c8eacb95ef4efad754a&rid=giphy.gif" />
 <br />
 
-### Hello! 🙋‍🎮,
 ### I'm a front-end developer that recently graduated from a bootcamp, based on NYC. :statue_of_liberty: 
 
 
