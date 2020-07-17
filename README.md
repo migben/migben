@@ -32,10 +32,10 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/migben/">
     <img alt="Leetcode" height="30px" src="https://img.icons8.com/ultraviolet/40/000000/code.png"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://ko-fi.com/I2I3C8M5">
     <img height="30px" width="30" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://dev.to/migben">
     <img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png">
   </a>&nbsp;&nbsp;
