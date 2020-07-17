@@ -21,17 +21,23 @@ Here are some ideas to get you started:
 <br/>
 <p align="center">
   <a href="https://twitter.com/SutzakuX">
-    <img align="left" alt="Miguel Ben| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+    <img alt="Miguel Ben| Twitter" height="30px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/miguelben/">
-    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
+    <img alt="Linkedin" height="30px" src="https://img.icons8.com/color/64/000000/linkedin.png"/>
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/migben/">
-    <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+    <img  alt="Leetcode" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
+  <a href="https://www.buymeacoffee.com/EcCVmbe">
+    <img height="30px" width="30" src="https://img.icons8.com/fluent/96/coffee-to-go.png"/>
+    
+  </a>
+  
+  
   <a href="https://dev.to/migben">
     <img align="left" alt="Leetcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://dev.to/migben"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 </p>
 
