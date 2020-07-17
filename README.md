@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <img  alt="Leetcode" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>
   <a href="https://ko-fi.com/I2I3C8M5">
-    <img height="30px" width="30" src="https://img.icons8.com/fluent/96/coffee-to-go.png"/>
+    <img height="30px" width="30" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png"/>
   </a>
   <a href="https://dev.to/migben">
     <img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png">
