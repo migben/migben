@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### - Languages and Tools...
+### - Languages and Tools... ⚔️
 
 <p align="center">
 
