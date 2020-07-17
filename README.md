@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <a href="https://leetcode.com/migben/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
 <a href="https://dev.to/migben">
   <img align="left" alt="Leetcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
 </a>
@@ -89,7 +88,9 @@ Here are some ideas to get you started:
 ### - Blogs ✏️
 
 <p align="center">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true"> 
+  <a href="https://dev.to/migben">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true"> 
+  </a>
 </p>
 
 
