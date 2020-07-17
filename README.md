@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
                       ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
-### Hi there, I'm [Miguel!](https://www.miguelben.dev) 👋 ⭐🎉⭐🎉  
+### Hi there, I'm [Miguel!](https://www.miguelben.dev) 👋 🎉 ⭐<img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" />⭐🎉  
 
 
 <br/>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <br />
 
-
+<hr />
 **I am Into , 🙏**
 
 **Automation, Web Development, SEO, Cycling :bicyclist:, Front-end & Javascript 😼**
