@@ -13,23 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-                      ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
-### Hi there, I'm [Miguel!](https://www.miguelben.dev) 👋 🎉 ⭐<img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" />⭐🎉  
+                                                                                  🎉⭐<img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" />⭐🎉  
+                     
+### Hi there, I'm [Miguel!](https://www.miguelben.dev):wave:  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true) 
 
 
 <br/>
-<a href="https://twitter.com/SutzakuX">
-  <img align="left" alt="Miguel Ben| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/miguelben/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://leetcode.com/migben/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://dev.to/migben">
-  <img align="left" alt="Leetcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/SutzakuX">
+    <img align="left" alt="Miguel Ben| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="https://www.linkedin.com/in/miguelben/">
+    <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://leetcode.com/migben/">
+    <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>
+  <a href="https://dev.to/migben">
+    <img align="left" alt="Leetcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />
+  </a>
+  <a href="https://dev.to/migben"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
+</p>
 
 <br />
 
