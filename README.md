@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 
 <hr />
 
-**I am Into , 🙏**
+**I am Into , 😎**
 
-**Automation, Web Development, SEO, Cycling :bicyclist:, Front-end & Javascript 😼**
+**Automation, Web Development, SEO, Cycling :bicyclist:, Front-end & Javascript ❤️**
 <br />
 
 
