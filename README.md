@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### I'm a front-end developer that recently graduated from a bootcamp, based on NYC. :statue_of_liberty: 
 
 
-#### - 🐲 Learning React  <code><img height="20" src="https://avatars2.githubusercontent.com/u/39895671?s=400&v=4"></code>,NextJs <code> <img height="20" width="20" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+#### - 🐲 Learning React  <code><img height="20" src="https://avatars2.githubusercontent.com/u/39895671?s=400&v=4"></code>,VueJs <code> <img height="20" width="20" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"> </code> &GatsbyJS <code><img height="20" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4"></code>.
 
 
 
