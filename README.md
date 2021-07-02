@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-  <a href="https://twitter.com/SutzakuX">
+  <a href="https://twitter.com/SutzakuX" target="_blank">
     <img alt="Miguel Ben| Twitter" height="30px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/miguelben/">
+  <a href="https://www.linkedin.com/in/miguelben/" target="_blank">
     <img alt="Linkedin" height="30px" src="https://img.icons8.com/color/64/000000/linkedin.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/migben/">
+  <a href="https://leetcode.com/migben/" target="_blank">
     <img alt="Leetcode" height="30px" src="https://img.icons8.com/ultraviolet/40/000000/code.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://ko-fi.com/I2I3C8M5">
+  <a href="https://ko-fi.com/I2I3C8M5" target="_blank">
     <img height="30px" width="30" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/5ca5bf1dff3c03fbf7cc9b3c_Kofi_logo_RGB_rounded-p-500.png"/>
   </a>&nbsp;&nbsp;
-  <a href="https://dev.to/migben">
+  <a href="https://dev.to/migben" target="_blank">
     <img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png">
   </a>&nbsp;&nbsp;
 </p>
@@ -130,12 +130,12 @@ TESTING
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/miguelben">
+  <a href="https://www.linkedin.com/in/miguelben" target="_blank">
 <!--     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true">  -->
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)" >
   </a>
   
-  <a href="https://dev.to/migben">
+  <a href="https://dev.to/migben" target="_blank">
 <!--     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true">  -->
     <img src="https://img.shields.io/badge/Dev.to-632CA6?style=for-the-badge&logo=dev.to&logoColor=black)" >
   </a>
