@@ -41,25 +41,25 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;
 </p>
 
+
+
 <br />
 
-<img align="right" height="270px" width="350px" alt="GIF" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47345b8db67ffc5ae993159c8eacb95ef4efad754a&rid=giphy.gif" />
+<img align="right" height="auto" width="350px" alt="GIF" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47345b8db67ffc5ae993159c8eacb95ef4efad754a&rid=giphy.gif"/>
 <br />
 
 ### Hi there, I'm [Miguel!](https://www.miguelben.dev):wave:  ![](https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/pronouns/hehim.svg?sanitize=true)
 
-### I'm a front-end developer that recently graduated from a bootcamp, based on NYC. :statue_of_liberty: 
+### I'm a front-end developer, bootcamp & CS grad based on NYC. 🗽 
 
 
-#### - 🐲 Learning React  <code><img height="20" src="https://avatars2.githubusercontent.com/u/39895671?s=400&v=4"></code>,VueJs <code> <img height="20" width="20" src="https://banner2.cleanpng.com/20180718/cbh/kisspng-vue-js-javascript-library-angularjs-react-vue-js-5b4ebe1bc45884.1915769815318871318042.jpg"> </code> &GatsbyJS <code><img height="20" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4"></code>.
-
-
+#### - 🐱‍💻 Learning React ⚛, VueJs & Next.js.
 
 
 #### - 🔭 Google tooling ftw, 
 
-#### - :robot: Into Automation
-#### - 💬 Connect? Here 👉🏼[<img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg?sanitize=true" >](https://twitter.com/SutzakuX/)
+#### - 👾 Into Threejs
+#### - 💬 Connect? Here 🏼❌[<img style="margin-top: 10px;" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >](https://twitter.com/SutzakuX/)
 
 
 <br />
@@ -68,23 +68,36 @@ Here are some ideas to get you started:
 
 **I am Into , 😎**
 
-**Automation, Web Development, SEO, Cycling :bicyclist:, Front-end & Javascript ❤️**
+**Frontend Development, Reactjs, all things Javascript and recently digging Threejs ❤️**
 <br />
 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=migben&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Miguel Ben stats](https://github-readme-stats.vercel.app/api?username=migben&show_icons=true&theme=radical)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 *************
 
 <br />
 
-### - Languages and Tools... ⚔️
+### - Tech stack and Tools...🐱‍👤
 
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  
+  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black) 
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
+![](https://img.shields.io/badge/Vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg?sanitize=true" alt="html" style="vertical-align:top margin:6px 4px">
+<!--   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg?sanitize=true" alt="html" style="vertical-align:top margin:6px 4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="html" style="vertical-align:top margin:6px 4px">
   
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg?sanitize=true" alt="js" style="vertical-align:top margin:6px 4px">
@@ -97,14 +110,15 @@ Here are some ideas to get you started:
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg?sanitize=true" alt="vscode" style="vertical-align:top margin:6px 4px">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="vscode" style="vertical-align:top margin:6px 4px">
 
-
+ -->
 </p>
 
-### - Blogs ✏️
+### - Blog ✏️
 
 <p align="center">
   <a href="https://dev.to/migben">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true"> 
+<!--     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true">  -->
+    <img src="https://img.shields.io/badge/Dev.to-632CA6?style=for-the-badge&logo=dev.to&logoColor=black)" >
   </a>
 </p>
 
