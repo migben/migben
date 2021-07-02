@@ -59,27 +59,41 @@ Here are some ideas to get you started:
 #### - 🔭 Google tooling ftw, 
 
 #### - 👾 Into Threejs
-#### - 💬 Connect? Here 🏼❌[<img style="margin-top: 10px;" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" >](https://twitter.com/SutzakuX/)
 
+#### - 📫 How to reach me => [📨 👈](mailto:itsmigben@gmail.com) 
 
 <br />
-
-<hr />
 
 **I am Into , 😎**
 
 **Frontend Development, Reactjs, all things Javascript and recently digging Threejs ❤️**
 <br />
 
+<hr />
 
-[![Miguel Ben stats](https://github-readme-stats.vercel.app/api?username=migben&show_icons=true&theme=radical)
-)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- 
+TESTING
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-migben.vercel.app/api/spotify)](https://open.spotify.com/user/mius00)
+
+
+
+[![Spotify](https://novatorem-taupe-phi.vercel.app/api/spotify)](https://open.spotify.com/user/mius00)
+
+[<img src="https://novatorem-taupe-phi.vercel.app/api/spotify" alt="migben Spotify Playing" width="350px" />](https://open.spotify.com/user/mius00) -->
+
+### Stats 💯
+
+ [![Miguel Ben stats](https://github-readme-stats-migben.vercel.app/api?username=migben&show_icons=true&theme=radical)](https://github.com/migben/github-readme-stats)
 
 *************
 
 <br />
 
-### - Tech stack and Tools...🐱‍👤
+<h3 align="center">Tech stack and Tools...🐱‍👤</h3>
 
 <p align="center">
 
@@ -113,7 +127,7 @@ Here are some ideas to get you started:
  -->
 </p>
 
-### - Blog ✏️
+<h3 align="center"> Blog ✍</h3>
 
 <p align="center">
   <a href="https://dev.to/migben">
@@ -125,7 +139,7 @@ Here are some ideas to get you started:
 
 ***********************************
 
-#### Thank You! 👋🐸
+<h3 align="center"> Thank you 👋🐸</h3>
 
 
 
