@@ -55,12 +55,11 @@ Here are some ideas to get you started:
 
 #### - 🐱‍💻 Learning React ⚛, VueJs & Next.js.
 
-
 #### - 🔭 Google tooling ftw, 
 
 #### - 👾 Into Threejs
 
-#### - 📫 How to reach me => [📨 👈](mailto:itsmigben@gmail.com) 
+#### - 📫 How to reach me => [Email📨](mailto:itsmigben@gmail.com) 
 
 <br />
 
@@ -85,7 +84,7 @@ TESTING
 
 [<img src="https://novatorem-taupe-phi.vercel.app/api/spotify" alt="migben Spotify Playing" width="350px" />](https://open.spotify.com/user/mius00) -->
 
-### Stats 💯
+## Stats 💯
 
  [![Miguel Ben stats](https://github-readme-stats-migben.vercel.app/api?username=migben&show_icons=true&theme=radical)](https://github.com/migben/github-readme-stats)
 
@@ -127,9 +126,15 @@ TESTING
  -->
 </p>
 
-<h3 align="center"> Blog ✍</h3>
+<h3 align="center">🖐 Social - Blog ✍</h3>
 
 <p align="center">
+  
+  <a href="https://www.linkedin.com/in/miguelben">
+<!--     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true">  -->
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=black)" >
+  </a>
+  
   <a href="https://dev.to/migben">
 <!--     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/blogs/devto.svg?sanitize=true">  -->
     <img src="https://img.shields.io/badge/Dev.to-632CA6?style=for-the-badge&logo=dev.to&logoColor=black)" >
@@ -138,6 +143,8 @@ TESTING
 
 
 ***********************************
+## ⚡Recent Activity
+
 
 <h3 align="center"> Thank you 👋🐸</h3>
 
