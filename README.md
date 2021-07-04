@@ -154,7 +154,7 @@ TESTING
 
 </details>
 
-
+<p align="center"><i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i></p>
 <h3 align="center"> Thank you 👋🐸</h3>
 
 
