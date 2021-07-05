@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 #### - 🐱‍💻 Learning React ⚛, VueJs & Next.js.
 
-#### - 🔭 Google tooling ftw, 
+#### - 🌱 I'm trying to support work a couple of tech communities.
 
 #### - 👾 Into Threejs
 
