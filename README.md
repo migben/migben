@@ -82,7 +82,7 @@ TESTING
 
 ## Stats 💯
 
- [![Miguel Ben stats](https://github-readme-stats-migben.vercel.app/api?username=migben&show_icons=true&theme=radical)](https://github.com/migben/github-readme-stats)
+ [![Miguel Ben stats](https://github-readme-stats-migben.vercel.app/api?username=migben&show_icons=true&theme=radical&hide_border=true)](https://github.com/migben/github-readme-stats)
 
 *************
 
