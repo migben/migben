@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 #### - 👾 Into Threejs
 
-#### - 📫 How to reach me => [Email📨](mailto:itsmigben@gmail.com) 
+#### - 📫 How to reach me =>  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/S4C35KOh)
 
 <br />
 
