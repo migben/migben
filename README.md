@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 #### - 👾 Into Threejs
 
-#### - 📫 How to reach me =>  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/S4C35KOh)
+#### - 📫 Contact me [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/S4C35KOh)
 
 <br />
 
@@ -72,17 +72,13 @@ Here are some ideas to get you started:
 
 
 
-<!-- 
+
 TESTING
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-migben.vercel.app/api/spotify)](https://open.spotify.com/user/mius00)
 
-
-
-[![Spotify](https://novatorem-taupe-phi.vercel.app/api/spotify)](https://open.spotify.com/user/mius00)
-
-[<img src="https://novatorem-taupe-phi.vercel.app/api/spotify" alt="migben Spotify Playing" width="350px" />](https://open.spotify.com/user/mius00) -->
+<!-- [<img src="https://novatorem-taupe-phi.vercel.app/api/spotify" alt="migben Spotify Playing" width="350px" />](https://open.spotify.com/user/mius00) -->
 
 ## Stats 💯
 
