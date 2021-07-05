@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 **I am Into , 😎**
 
-**Frontend Development, Reactjs, all things Javascript and recently digging Threejs ❤️**
+**Frontend Development, Reactjs, all things Javascript and recently digging Threejs** <img style="position absolute" src="https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" alt="pixel heart" width="15" height="15"/>
 <br />
 
 <hr />
