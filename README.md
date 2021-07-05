@@ -70,10 +70,6 @@ Here are some ideas to get you started:
 
 <hr />
 
-
-
-
-TESTING
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-migben.vercel.app/api/spotify)](https://open.spotify.com/user/mius00)
