@@ -105,21 +105,6 @@ TESTING
 ![](https://img.shields.io/badge/Vuejs-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-<!--   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/html.svg?sanitize=true" alt="html" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="html" style="vertical-align:top margin:6px 4px">
-  
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/js.svg?sanitize=true" alt="js" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg?sanitize=true" alt="python" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/react.svg?sanitize=true" alt="react" style="vertical-align:top margin:6px 4px"">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/frameworks/vue.svg?sanitize=true" alt="vue" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/chrome.svg?sanitize=true" alt="chrome" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/npm.svg?sanitize=true" alt="npm" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/bash.svg?sanitize=true" alt="bash" style="vertical-align:top margin:6px 4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/visualstudio_code.svg?sanitize=true" alt="vscode" style="vertical-align:top margin:6px 4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/services/leetcode.svg" alt="vscode" style="vertical-align:top margin:6px 4px">
-
- -->
 </p>
 
 <h3 align="center">🖐 Social - Blog ✍</h3>
@@ -139,16 +124,6 @@ TESTING
 
 
 ***********************************
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-
-<!--END_SECTION:activity-->
-</details>
 
 <p align="center"><i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i></p>
 <h3 align="center"> Thank you 👋🐸</h3>
