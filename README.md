@@ -53,19 +53,19 @@ Here are some ideas to get you started:
 ### I'm a front-end developer, bootcamp & CS grad based on NYC. 🗽 
 
 
-#### - 🐱‍💻 Learning React ⚛, VueJs & Next.js.
+#### - 🐱‍💻 Learning React ⚛, VueJs & Tailwind.
 
 #### - 🌱 I'm trying to support work a couple of tech communities.
 
-#### - 👾 Into Threejs
+#### - 👾 Looking forward to learn moe about Threejs & Nextjs next.
 
 #### - 📫 Contact me [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/S4C35KOh)
 
 <br />
 
-**I am Into , 😎**
+**I am Into,**
 
-**Frontend Development, Reactjs, all things Javascript and recently digging Threejs** <img style="position absolute" src="https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" alt="pixel heart" width="15" height="15"/>
+**Frontend Development, Reactjs,  recently digging Threejs and all things Javascript** <img style="position absolute" src="https://static.djangoproject.com/img/fundraising-heart.cd6bb84ffd33.svg" alt="pixel heart" width="15" height="15"/>
 <br />
 
 <hr />
@@ -121,8 +121,18 @@ Here are some ideas to get you started:
 
 ***********************************
 
-<p align="center"><i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i></p>
+<p align="center"><i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i> <br> <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"></p>
 <h3 align="center"> Thank you 👋🐸</h3>
+
+
+<!--
+couple of drawing gif logos that I like.
+ 
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
+  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+</p> -->
 
 
 
