@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 #### - 🐱‍💻 Learning React ⚛, VueJs & Tailwind.
 
-#### - 🌱 I'm trying to support work a couple of tech communities.
+#### - 🌱 I'm an active member of a couple tech communities.
 
 #### - 👾 Looking forward to learn moe about Threejs & Nextjs later.
 
