@@ -127,8 +127,10 @@ Here are some ideas to get you started:
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
   <img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100">
 </p>
-<h3 align="center"> Thank you 👋🐸</h3>
 
+<div align="center">
+  <img float="left" src="https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif" width="30" height="30"> Thank you 👋🐸
+</div>
 
 <!--
 couple of drawing gif logos that I like.
